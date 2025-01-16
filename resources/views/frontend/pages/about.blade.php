@@ -7,7 +7,7 @@
         </div>
         <div class="w-full md:w-2/3 mt-10 md:ml-10">
             <h3>Hi</h3>
-            <h1><span class="text-gray-500">I am </span> Anurag Singh</h1>
+            <h1><span class="text-gray-500">I am </span>Al Imran Ahmed</h1>
             <section class="text-gray-600">
                 An experienced web artisan who loves building challenging web application.
             </section>
